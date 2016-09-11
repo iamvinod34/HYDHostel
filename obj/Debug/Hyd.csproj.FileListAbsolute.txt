@@ -1,0 +1,6 @@
+E:\Hostel Managment System\Hyd\Hyd\bin\Hyd.dll.config
+E:\Hostel Managment System\Hyd\Hyd\bin\Hyd.dll
+E:\Hostel Managment System\Hyd\Hyd\bin\Hyd.pdb
+E:\Hostel Managment System\Hyd\Hyd\obj\Debug\Hyd.csprojResolveAssemblyReference.cache
+E:\Hostel Managment System\Hyd\Hyd\obj\Debug\Hyd.dll
+E:\Hostel Managment System\Hyd\Hyd\obj\Debug\Hyd.pdb
